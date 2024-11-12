@@ -8,7 +8,6 @@
     "gulp-cleancss": "^0.2.2",
     "gulp-concat": "^2.6.1",
     "gulp-file-include": "^2.3.0",
-    "gulp-gh-pages": "^0.5.4",
     "gulp-html-beautify": "^1.0.1",
     "gulp-newer": "^1.4.0",
     "gulp-notify": "^4.0.0",
@@ -26,5 +25,8 @@
     "sass": "^1.57.1",
     "slim-select": "^2.8.2",
     "vinyl-buffer": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp-gh-pages": "^0.5.4"
   }
 }

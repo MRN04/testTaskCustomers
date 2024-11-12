@@ -32,9 +32,6 @@ importers:
       gulp-file-include:
         specifier: ^2.3.0
         version: 2.3.0
-      gulp-gh-pages:
-        specifier: ^0.5.4
-        version: 0.5.4
       gulp-html-beautify:
         specifier: ^1.0.1
         version: 1.0.1
@@ -86,6 +83,10 @@ importers:
       vinyl-buffer:
         specifier: ^1.0.1
         version: 1.0.1
+    devDependencies:
+      gulp-gh-pages:
+        specifier: ^0.5.4
+        version: 0.5.4
 
 packages:
 
