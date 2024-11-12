@@ -1,0 +1,35 @@
+@media screen and (max-width: 1099px) {
+    .first-screen {
+        .container-fluid {
+            .first-screen__info h1 {
+                max-width: 400px;
+            }
+
+            .first-screen__info {
+                margin-left: 40px;
+                padding-bottom: 70px;
+            }
+        }
+    }
+
+    .search-bar {
+        padding: 10px 10px;
+        .filters {
+            .search-bar-filter {
+                padding: 10px 8px;
+            }
+        }
+        .btn-primary {
+            padding: 15px 27px;
+        }
+    }
+
+    .about-us .container-fluid .content .features .feature {
+        max-width: 140px;
+        padding: 14px 12px;
+    }
+
+    .card {
+        max-width: 320px;
+    }
+}
